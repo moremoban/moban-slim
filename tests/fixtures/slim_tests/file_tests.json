@@ -1,0 +1,10 @@
+{
+    "users" :
+    [
+        {"name": "foo", "last_name": "bar"},
+        {"name": "bar", "middle_name": "baz"},
+        {"name": "baz"}
+    ],
+    "content": "my_content",
+    "user_class": "my_class"
+}
