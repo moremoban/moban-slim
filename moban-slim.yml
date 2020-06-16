@@ -12,3 +12,4 @@ dependencies:
   - slimish-jinja>=1.1.0
   - lml>=0.0.7
 description: "Provide slim templating capability to moban."
+lint_command: make lint
