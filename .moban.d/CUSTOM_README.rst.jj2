@@ -4,7 +4,7 @@
 {%endblock%}
 
 {%block features%}
-With `slimish-jinja2 for Python 3 <slimish-jinja>=1.1.0>`_, this library allow moban users to
+With `slimish-jinja2 for Python 3 <https://pypi.org/project/slimish-jinja>`_, this library allow moban users to
 have slim template in their next documentation endeavour.
 
 Quick start
