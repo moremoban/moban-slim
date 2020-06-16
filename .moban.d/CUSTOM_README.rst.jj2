@@ -4,6 +4,12 @@
 {%endblock%}
 
 {%block features%}
-With `slimish-jinja2 for Python 3 <git+https://github.com/cliu13/slimish-jinja2@python3>`_, this library allow moban users to
-have slim template in their next documentation endeavour. 
+With `slimish-jinja2 for Python 3 <https://pypi.org/project/slimish-jinja>`_, this library allow moban users to
+have slim template in their next documentation endeavour.
+
+Quick start
+============
+
+{% include "slim_example.rst.jj2" %}
+
 {%endblock%}
