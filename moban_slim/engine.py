@@ -1,10 +1,9 @@
 from typing import Dict
 
-from jinja2 import Environment, FileSystemLoader, Template
-from moban.externals import file_system
+from jinja2 import Template, Environment
 from slimish_jinja import SlimishExtension
-
 from jinja2_fsloader import FSLoader
+from moban.externals import file_system
 
 
 class EngineSlim(object):

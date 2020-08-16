@@ -3,8 +3,6 @@ import os
 from moban.core import ENGINES, plugins
 from nose.tools import eq_
 
-from moban_slim.engine import EngineSlim
-
 plugins.make_sure_all_pkg_are_loaded()
 
 
