@@ -38,9 +38,6 @@ Given a data.json file with the following content
 
 
    $ moban --template-type slim -c data.json  "{{person.firstname}} {{person.lastname}}"
-   Slimming <p>{{first... to moban.output
-   Slimmed 1 file.
-   $ cat moban.output
    Smith Jones
 
 
